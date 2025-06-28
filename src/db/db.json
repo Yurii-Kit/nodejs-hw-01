@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "61dcf40a-9bff-499f-8a4c-94a954b58378",
+    "name": "Julia Hagenes",
+    "phone": "(937) 462-2146 x8516",
+    "email": "Alvera.Jakubowski@yahoo.com",
+    "job": "Lead Marketing Liaison"
+  },
+  {
+    "id": "6b1848e8-1c9a-40bf-8a7f-cc7e96098ec2",
+    "name": "Andrew Toy",
+    "phone": "1-531-730-1348",
+    "email": "Lilla.Spinka@hotmail.com",
+    "job": "Investor Identity Director"
+  },
+  {
+    "id": "bb78e70a-edbc-455f-a553-e858765aa24b",
+    "name": "Essie Barton",
+    "phone": "871.571.9466 x876",
+    "email": "Kiera_Windler57@hotmail.com",
+    "job": "Lead Division Producer"
+  }
+]
